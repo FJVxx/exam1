@@ -9,11 +9,11 @@ $Dato1->cuenta = "12h13b888282ghg11";
 
 //Aqui se cambia la cantidad total del balance
 
-$Dato1->balanceTotal(1000);
+$Dato1->balanceTotal(0);
 
-$Dato1->deposito = 1;
+$Dato1->deposito = 0;
 
-$Dato1->retiro = 1002;
+$Dato1->retiro = 0;
 
 
 

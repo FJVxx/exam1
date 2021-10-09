@@ -32,7 +32,7 @@ class Cuenta{
         
         }else{
         $this->balanceTotal = $this->balanceTotal - $this->retiro;
-        
+        $this->balanceTotal;
         }
     }
 
